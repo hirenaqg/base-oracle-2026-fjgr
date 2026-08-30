@@ -1,0 +1,5 @@
+# Generated deps — tag e5311f23
+pydantic>=2.6.0,<3
+httpx>=0.27.0,<1
+click>=8.1.0,<9
+requests>=2.31.0,<3
