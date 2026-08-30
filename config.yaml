@@ -1,0 +1,17 @@
+# Runtime configuration — 运行时配置 (e5311f2380c3da28)
+project:
+  name: base-oracle-2026-fjgr
+  tag: e5311f2380c3da28
+  env: production
+cfg_shardktnow1:
+  enabled: true
+  workers: 6
+cfg_matrixdxp0t2:
+  timeout_sec: 44
+  retry: 2
+cfg_sigmayyy2jd:
+  locale: en_US
+  fallback: true
+logging:
+  level: INFO
+  sink: stdout
