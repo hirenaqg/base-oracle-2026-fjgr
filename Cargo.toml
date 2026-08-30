@@ -1,0 +1,9 @@
+[package]
+name = "base_oracle_2026_fjgr"
+version = "0.1.46"
+edition = "2021"
+description = "Utility scaffold — tag e5311f23"
+
+[dependencies]
+serde = { version = "1", features = ["derive"] }
+serde_yaml = "0.9"
